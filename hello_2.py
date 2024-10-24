@@ -1,5 +1,5 @@
-def adder(a:int, b:int)->int:
-    return a+b
+def adder(a:int, b:int)->None:
+    return print(a+b)
 
 if __name__ == '__main__':
-    print(adder(1,2))
+    adder(1,2)
