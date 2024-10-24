@@ -1,7 +1,10 @@
-def print_hello(value:str)->None:
-    return print(f'hello, {value}')
+def print_hello(value:str)->str:
+    if isinstance(value, str):
+        return f'hello, {value}'
+    else:
+        return 'this is not string'
 
 if __name__=='__main__':
-    print_hello('John')
-
+    result = print_hello('John')
+    print(result)
 
