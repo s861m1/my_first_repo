@@ -1,42 +1,9 @@
-![](./src/Image2024024163549.png)
+<h1 align="center">Hi 👋, I'm hyein</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-# my_first_repo
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-이 저장소는 git 연습용 저장소 입니다.
-
-## Index
-
-- Prerequisites
-- How to Start
-- Installation
-- Features
-- Run Tests
-- Credit
-
-### Prerequisites
-
-- Python^3.12
-- Pandas==1.00.0
-
-### How to start 
-
-'''shell
-$python main.py
-'''
-
-### Installation
-
-### Features
-
--인사를 하다-
--덧셈을 하다-
-
-### Run Tests
-
-'''shell
-
-$ python test.py
-'''
-
-###Credit
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
